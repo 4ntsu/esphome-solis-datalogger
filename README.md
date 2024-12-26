@@ -1,0 +1,1 @@
+# esphome-solis-datalogger
